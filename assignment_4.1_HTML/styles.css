@@ -1,0 +1,67 @@
+.dotted-border {
+  border-style: dotted;
+  padding: 15px;
+  text-align: center;
+}
+
+header {
+  padding: 5%;
+}
+
+main {
+  border-style: groove;
+  margin: 25px 50px;
+  padding: 25px 50px 75px 100px;
+}
+
+h2 {
+  margin: 0 auto;
+  text-align: center;
+}
+
+body {
+  color: black;
+  font-family: "Limelight", cursive;
+  background: rgb(152, 210, 212);
+  padding: 5%;
+}
+.black-border {
+  background-color: #666;
+  color: #fff;
+  font-weight: bold;
+  padding: 10px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+}
+#green-background {
+  background-color: green;
+}
+
+img {
+  border-radius: 15%;
+  vertical-align: middle;
+}
+
+.aboutMe {
+  padding: 5%;
+  font-size: small;
+  vertical-align: middle;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.Inline li {
+  display: inline-block;
+  list-style-type: none;
+  margin: 0;
+  padding: 8px 16px;
+}
+
+li a:hover {
+  background-color: #555;
+  color: white;
+}
